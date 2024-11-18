@@ -1,0 +1,16 @@
+"NumberOfSpaces": 100,
+    "VehicleTypes": {
+        "CAR": {
+            "MaxPerSpace": 1
+        },
+        "MC": {
+            "MaxPerSpace": 2
+        },
+        "BUS": {
+            "MaxPerSpace": 1
+        },
+        "BIKE": {
+            "MaxPerSpace": 5
+        }
+    }
+}
